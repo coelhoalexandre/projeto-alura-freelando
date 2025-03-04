@@ -1,33 +1,40 @@
+<h1 align="center"> Projeto Freelando </h1>
 
-![Front-end-React_ construíndo formulários com Formik](https://github.com/MonicaHillman/3650-formik/assets/51282495/ea82840e-35c2-46b4-a92f-5e255713099e)
+<div align="center">
 
-# Freelando
+<a href="https://github.com/coelhoalexandre/projeto-alura-freelando/blob/main/LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Completo-lightgreen.svg" alt="Completo">
 
-O Freelando é uma Startup. Nesse momento, ele possui uma tela inicial, de login e de cadastro.
+</div>
 
-<img src="screencapture.png" alt="Imagem do Freelando" width="50%">
+## Sumário
 
+- [Cursos e Instrutores](#cursos-e-instrutores)
+- [Objetivos do Projeto](#objetivos-do-projeto)
+- [Tecnologias Utilizadas](#tecnolgias-utilizadas)
 
-## 🔨 Funcionalidades do projeto
+## Cursos e Instrutores
 
-Nesse primeiro momento, nós temos o fluxo que foi idealizada como a primeiro entrega do time de desenvolvimento. Agora, iremos refatorar os formulários existentes para aplicar a biblioteca Formik.
+|Curso|Instrutores|
+|---|---|
+|[React: criando formulários com Formik e yup](https://cursos.alura.com.br/course/react-criando-formularios-formik-yup)|[**Mônica Hillman**](https://github.com/MonicaHillman)|
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/DGIzbfXEi27oiKzI0nGMIV/Freelando-%7C-WebApp-com-React?node-id=244%3A11524&t=J2NfqHrvVIr0jsgs-0).
+## Objetivos do Projeto
+- Aprender como instalar e iniciar um projeto com a biblioteca Formik em React;
+- Automatizar o gerenciamento de estado dos campos com o componente Field;
+- Implementar validações complexas utilizando Yup, incluindo expressões regulares e validações de campos específicos como e-mail e datas;
+- Construir formulários de login eficiente, aplicando práticas de UX para exibição de mensagens de erro;
+- Utilizar o hook useFormikContext para gerenciar estados em componentes filhos;
+- Desenvolver componentes personalizados, como inputs de datas e checkboxes, integrando-os com Formik e Yup.
 
-## ✔️ Técnicas e tecnologias utilizadas
+## Tecnolgias Utilizadas
 
-Se liga nessa lista de tudo que usaremos nesse curso:
+1. HTML
+2. CSS
+3. JS
+4. React
+5. Vite
+6. Formik
+7. Yup
 
-- `React`
-- `Biblioteca Formik`
-- `Componente Formik, Form, Formik e ErrorMessage`
-- `Hook useFormikContext()`
-- `Expressões regulares (Regex)`
+Autor: [Alexandre Coelho](https://github.com/coelhoalexandre)
 
-E muito mais!
-
-## 🛠️ Abrir e rodar o projeto
-
-Para abrir e rodar o projeto, execute `npm i` para instalar as dependências e `npm run dev` para inicar o projeto.
-
-Depois, acesse <a href="http://localhost:5173/">http://localhost:5173/</a> no seu navegador.
